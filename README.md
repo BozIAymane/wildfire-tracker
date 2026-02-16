@@ -28,8 +28,8 @@ The solution follows a serverless architecture on Microsoft Azure:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/wildfire-project.git
-    cd wildfire-project
+    git clone https://github.com/BozIAymane/wildfire-tracker.git
+    cd wildfire-tracker
     ```
 
 2.  **Install Frontend Dependencies**:
@@ -77,7 +77,7 @@ A PowerShell script `deploy_v2.ps1` is provided to automate the deployment to Az
 ## 📂 Project Structure
 
 ```
-wildfire-project/
+wildfire-tracker/
 ├── backend/                # Azure Functions (Python)
 │   ├── FetchWildfires/     # Function code
 │   └── requirements.txt    # Python dependencies
