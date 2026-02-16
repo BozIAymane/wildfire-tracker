@@ -1,0 +1,27 @@
+# Dependency directories
+node_modules/
+backend/.python_packages/
+backend/__pycache__/
+backend/venv/
+
+# Production build artifacts
+build/
+dist/
+
+# Azure Function local settings
+backend/local.settings.json
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE checks
+.vscode/
+.idea/
+
+# OS checks
+.DS_Store
+Thumbs.db
